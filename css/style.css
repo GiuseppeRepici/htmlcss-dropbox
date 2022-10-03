@@ -204,3 +204,61 @@
 .cont77 h1 {
     margin-bottom: 40px;
 }
+
+.cont8{
+    display: flex;
+}
+
+.item1-c8, .item2-c8 ,.item3-c8 {
+    flex-basis: 33%;
+
+}
+
+{
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.sez6{
+    margin-bottom: 1000px;
+}
+
+
+.item1-c8{
+    display: flex;
+    flex-direction: column;
+    width: 33vw;
+}
+
+.item1-c8c , .item2-c8c{
+    display: flex;
+}
+.box{
+    width: 16.666666667vw;
+    height: 16.666666667vw;
+    border: 1px solid black;
+}
+
+.item2-c8{
+    width: 33vw;
+    background-color: beige;
+   
+}
+
+#img77{
+    width: 50%;
+    height: auto;
+    display: block;
+    padding: 20px;
+}
+.borderbottom1{
+    border-bottom: 1px black solid;
+    width: 50px;
+    margin: 10px 20px;
+}
+
+.item2-c8 p ,.item2-c8 span {
+    padding: 20px;
+    font-size: 12px;
+}
