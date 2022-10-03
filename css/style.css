@@ -236,6 +236,8 @@
     width: 16.666666667vw;
     height: 16.666666667vw;
     border: 1px solid black;
+    display: flex;
+    justify-content: center;
 }
 
 .item2-c8{
@@ -333,4 +335,17 @@ footer{
     width: 50px;
     border-bottom: 1px white solid;
     margin: 20px 0;
+}
+
+.box img{
+    width: 40%;
+    height: auto;
+    display: block;
+}
+
+#img5555{
+    width: 55%;
+    height: 20px;
+    display: block;
+    align-self: center;
 }
