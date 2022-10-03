@@ -42,7 +42,7 @@
 #a1{
     margin-bottom: 40px;
 }
-img{
+#img1{
     width: 100%;
     height: auto;
     display: block;
@@ -51,6 +51,9 @@ img{
     flex-basis: 40%;
 }
 
+.sez2{
+    margin-top: 100px;
+}
 .cont4{
     width: 720px;
     margin: 0 auto;
@@ -86,7 +89,78 @@ img{
 
 .hscheda{
     border-bottom: 2px black solid;
-    
+    text-align: center;
+    padding: 5px;
     
 }
 
+.mscheda h3 ,.mscheda h4 , .mscheda p {
+    padding: 10px;
+}
+
+.borderbottom{
+    border-bottom: 1px black solid;
+    width: 50px;
+    margin: 10px;
+}
+.cont5{
+    width: 720px;
+    margin: 0 auto;
+}
+.schedas{
+    border: 2px black solid;
+}
+
+.hschedas{
+    border-bottom: 2px solid black;
+    text-align: center;
+}
+
+.mschedas{
+    display: flex;
+}
+
+.item1-ss, .item2-ss {
+    padding: 10px;
+}
+.item2-ss{
+    flex-basis: 40%;
+    text-align: center;
+    margin-top: 2px;
+}
+
+.item2-ss span{
+    border: 2px black solid;
+    padding: 1.5px;
+    color: white;
+    background-color: blue;
+    border-radius: 2rem;
+}
+
+.p222{
+    margin-top: 20px;
+}
+
+.item1-ss h4, .item1-ss p {
+    padding: 5px;
+}
+
+.parte2{
+    margin-top: 60px;
+    display: flex;
+}
+
+#img2{
+    width: 55%;
+    height: auto;
+    display: block;
+    margin-right: 40px;
+}
+
+.item2-pt2 h4 , .item2-pt2 p ,.item2-pt2 span {
+    margin: 0px 0px 20px;
+}
+.item2-pt2 span{
+    border: 2px black solid;
+    padding: 3px;
+}
