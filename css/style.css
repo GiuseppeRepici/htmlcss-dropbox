@@ -290,3 +290,47 @@
     background-color: blue;
     padding: 5px 10px;
 }
+
+.sez8 {
+    width: 720px;
+    margin: 50px auto;
+}
+
+.borderb{
+    border-bottom: 1px black solid;
+
+}
+.sez8 h1{
+    margin-bottom: 20px;
+}
+.spa11{
+    margin: 20px 0;
+}
+
+footer{
+    background-color: black;
+}
+.sect10{
+    width: 720px;
+    margin: 0 auto;
+    color: wheat;
+}
+
+.sect5-1{
+    display: flex;
+    justify-content: space-between;
+}    
+
+
+.col1 ul, .col2 ul ,.col3 ul ,.col4 ul ,.col5 ul {
+    display: flex;
+    list-style: none;
+    column-gap: 1rem; 
+    flex-direction: column;
+}
+
+.borderblack{
+    width: 50px;
+    border-bottom: 1px white solid;
+    margin: 20px 0;
+}
