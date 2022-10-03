@@ -50,3 +50,43 @@ img{
 .item2-c3. {
     flex-basis: 40%;
 }
+
+.cont4{
+    width: 720px;
+    margin: 0 auto;
+    margin-top: 80px;
+}
+
+.item1-c4 h1{
+    margin-bottom: 30px;
+}
+
+.s1{
+    margin-left: 30px;
+}
+
+
+.scheda{
+    border: 2px black solid;
+}
+.marg   {
+    margin: 20px;
+} 
+
+.marg1   {
+    margin: 20px 0px 20px;
+} 
+    
+.marg3{
+    margin: 20px 0;
+}
+.item2-c4{
+    display: flex;
+}
+
+.hscheda{
+    border-bottom: 2px black solid;
+    
+    
+}
+
