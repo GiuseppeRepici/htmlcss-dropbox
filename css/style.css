@@ -1,3 +1,8 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
 .cont-head{
     display: flex;
     height: 40px;
@@ -11,4 +16,37 @@
     background-color: blue;
     color: white;
     border-radius: 2rem;
+}
+.sez1{
+    background-color: blueviolet;
+    height: 450px;
+}
+.cont2  {
+    width: 920px;
+    margin: 0 auto;
+}
+
+.cont3{
+    display: flex;
+    padding-top: 80px;
+}
+
+.item1-c3 {
+    flex-basis: 60%;
+
+}
+.item1-c3 p {
+    margin-bottom: 30px;
+
+}
+#a1{
+    margin-bottom: 40px;
+}
+img{
+    width: 100%;
+    height: auto;
+    display: block;
+}
+.item2-c3. {
+    flex-basis: 40%;
 }
