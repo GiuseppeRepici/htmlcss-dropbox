@@ -39,7 +39,7 @@
 }
 .sez1{
     background-color: rgba(180,208,231,255);
-    height: 450px;
+    height: 455px;
     
 }
 .cont2  {
@@ -65,8 +65,12 @@
     margin-bottom: 30px;
 
 }
+
+#pp1{
+    margin-bottom: 20px;
+}
 #a1{
-    margin-bottom: 40px;
+    margin-bottom: 60px;
 }
 #img1 {
     width: 100%;
@@ -79,15 +83,19 @@
 
 .sez2{
     margin-top: 180px;
+    margin-bottom: 35px;
 }
 .cont4{
     width: 720px;
     margin: 0 auto;
     margin-top: 80px;
 }
+.item1-c4{
+    margin-bottom: 35px;
+}
 
 .item1-c4 h1{
-    margin-bottom: 30px;
+    margin-bottom: 50px;
 }
 
 .s1{
@@ -136,6 +144,7 @@
 }
 .schedas{
     border: 2px black solid;
+    margin-bottom: 100px;
 }
 
 .hschedas{
@@ -199,10 +208,14 @@
     width: 720px;
     margin: 80px auto 0; 
 }
+.sez4 h1{
+    margin-bottom: 50px;
+}
 
 .sez4-pt2{
     display: flex;
     margin-top: 20px;
+    margin-bottom: 130px;
 }
 
 .bellasch2 , .bellasch{
@@ -297,6 +310,7 @@
 
 .sez7{
     background-color: rgba(180,208,231,255);
+    margin-bottom: 90px;
 }
 
 .cont12{
@@ -343,6 +357,7 @@
 
 footer{
     background-color: black;
+    margin-top: 90px;
 }
 .sect10{
     width: 720px;
