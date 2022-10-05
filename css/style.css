@@ -29,7 +29,13 @@
     border: 2px gray solid;
     background-color: blue;
     color: white;
-    border-radius: 2rem;
+    text-align: center;
+    padding: 0;
+    width: 180px;
+}
+
+.mscheda .botton{
+    margin: 0 auto;
 }
 .sez1{
     background-color: rgba(180,208,231,255);
@@ -66,7 +72,7 @@
     height: auto;
     display: block;
 }
-.item2-c3. {
+.item2-c3 {
     flex-basis: 40%;
 }
 
@@ -84,7 +90,7 @@
 }
 
 .s1{
-    margin-left: 30px;
+    margin-left: 32px;
 }
 
 
@@ -114,7 +120,7 @@
 }
 
 .mscheda h3 ,.mscheda h4 , .mscheda p {
-    padding: 10px;
+    padding: 15px;
 }
 
 .borderbottom{
@@ -149,11 +155,11 @@
 }
 
 .item2-ss span{
-    border: 2px black solid;
+    border: 2px blue solid;
     padding: 1.5px;
     color: white;
     background-color: blue;
-    border-radius: 2rem;
+    
 }
 
 .p222{
@@ -179,6 +185,9 @@
 .item2-pt2 h4 , .item2-pt2 p ,.item2-pt2 span {
     margin: 0px 0px 20px;
 }
+.item2-pt2 h4{
+    font-size: 20px;
+}
 .item2-pt2 span{
     border: 2px black solid;
     padding: 3px;
@@ -194,9 +203,17 @@
     margin-top: 20px;
 }
 
+.bellasch2 , .bellasch{
+    flex-basis: calc(100% / 3 );
+}
+
 .bellasch2{
- 
-    margin: 0px 30px;
+    margin: 0px 40px;
+}
+
+.bellasch h4,.bellasch2 h4 {
+    margin-top: 10px;
+    margin-bottom: 20px;
 }
 #img4{
     width: 95%;
@@ -229,8 +246,9 @@
 }
 
 .item1-c8, .item2-c8 ,.item3-c8 {
-    flex-basis: 34%;
+    flex-basis: calc(100% / 3);
     border: 1px black solid;
+    background-color: rgb(39, 177, 177);
 
 }
 
@@ -245,8 +263,8 @@
     display: flex;
 }
 .box{
-    width: 16.666666667vw;
-    height: 16.666666667vw;
+    width: calc(100% / 1);
+    height: 
     border: 1px solid black;
     display: flex;
     justify-content: center;
@@ -277,7 +295,7 @@
 }
 
 .sez7{
-    background-color: orange;
+    background-color: rgba(180,208,231,255);
 }
 
 .cont12{
