@@ -39,6 +39,7 @@
 }
 .sez1{
     background-color: rgba(180,208,231,255);
+    height: 450px;
     
 }
 .cont2  {
@@ -57,7 +58,7 @@
 }
 
 .item1-c3 {
-    flex-basis: 60%;
+    flex-basis: 40%;
 
 }
 .item1-c3 p {
@@ -73,7 +74,7 @@
     display: block;
 }
 .item2-c3 {
-    flex-basis: 40%;
+    flex-basis: 60%;
 }
 
 .sez2{
@@ -96,6 +97,7 @@
 
 .scheda{
     border: 2px black solid;
+    flex-basis: calc(100% / 3);
 }
 .marg   {
     margin: 20px;
@@ -246,7 +248,6 @@
 }
 
 .item1-c8, .item2-c8 ,.item3-c8 {
-    flex-basis: calc(100% / 3);
     border: 1px black solid;
     background-color: rgb(39, 177, 177);
 
@@ -263,8 +264,8 @@
     display: flex;
 }
 .box{
-    width: calc(100% / 1);
-    height: 
+    width: 15vw; 
+    height: 15vw; 
     border: 1px solid black;
     display: flex;
     justify-content: center;
