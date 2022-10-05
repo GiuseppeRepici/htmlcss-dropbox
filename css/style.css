@@ -10,6 +10,21 @@
     align-items: center;
 }
 
+.item1-ch{
+    align-self: center;
+    display: flex;
+}
+
+#immm1{
+    width: 80px;
+    height: auto;
+    display: block;
+    margin-right: 15px;
+}
+
+.item1-ch span, .item2-ch span{
+    margin-right: 15px;
+}
 .botton{
     border: 2px gray solid;
     background-color: blue;
@@ -18,11 +33,12 @@
 }
 .sez1{
     background-color: rgba(180,208,231,255);
-    height: 450px;
+    
 }
 .cont2  {
     width: 920px;
     margin: 0 auto;
+    height: 525px;
 }
 
 .item1-c2 h1{
@@ -45,7 +61,7 @@
 #a1{
     margin-bottom: 40px;
 }
-#img1{
+#img1 {
     width: 100%;
     height: auto;
     display: block;
